@@ -1,2 +1,2 @@
 este es un archivo para hacer prueba. 
-practica de git
+practica de git y un proyecto
