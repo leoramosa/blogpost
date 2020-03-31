@@ -1,2 +1,2 @@
 este es un archivo para hacer prueba. 
-practica de git y un proyecto
+practica de git y un proyecto que se llama blogpost
