@@ -1,1 +1,2 @@
-este es un archivo para hacer prueba
+este es un archivo para hacer prueba. 
+practica de git
