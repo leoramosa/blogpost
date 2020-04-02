@@ -1,2 +1,4 @@
-este es un archivo para hacer prueba. 
+este es un archivo para hacer prueba.
+
+infine va hacer nuestro colaborar para trabajar en este proyecto
 practica de git y un proyecto que se llama blogpost
