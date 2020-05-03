@@ -1,5 +1,6 @@
 # Blogpost  💚
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M41O8NC)
+
 Creacion de un blogspot, es un pequeño desarrollo para practicar git y github
 >Es muy versatil aprender git y github, les recomiendo bastante esta herramienta ya que les servira en su carrera como programadores
 > - Increible
